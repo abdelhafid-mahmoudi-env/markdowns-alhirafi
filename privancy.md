@@ -93,4 +93,4 @@ We reserve the right to update or modify these terms and conditions at any time 
 
 ---
 
-**Last Updated: [Date]**
+**Last Updated: December 3, 2023**
