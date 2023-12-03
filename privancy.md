@@ -1,4 +1,4 @@
-# AL-HIRAFI: Règlement contre la discrimination et la propagande haineuse
+### AL-HIRAFI: Règlement contre la discrimination et la propagande haineuse
 
 Chez AL-HIRAFI, nous mettons en contact des consommateurs sérieux du monde entier avec des entrepreneurs créatifs. C’est un écosystème dans lequel des personnes de tous horizons s’inspirent mutuellement et créent des relations en fabriquant, vendant et achetant des produits uniques. Nous voulons que tous ceux qui utilisent AL-HIRAFI se sentent en sécurité, et notre priorité est de développer un environnement inclusif. Ce règlement explique le type de comportement que nous interdisons sur AL-HIRAFI pour nous assurer que notre expérience à tous soit positive.
 
