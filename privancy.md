@@ -1,6 +1,8 @@
 # Politique de confidentialité
 Dernière mise à jour : [12/03/2023]
 
+
+
 # Welcome to AL-HIRAFI - Your Gateway to Timeless Elegance
 
 Discover the allure of tradition and elegance at AL-HIRAFI, your premier destination for exquisite treasures. Immerse yourself in the world of craftsmanship, where each item tells a story of heritage and artistry. At AL-HIRAFI, we curate a collection that seamlessly blends the beauty of tradition with modern aesthetics. Whether you're a connoisseur of cultural richness or someone seeking a touch of timeless charm, our online store is your gateway to a world of sophistication.
