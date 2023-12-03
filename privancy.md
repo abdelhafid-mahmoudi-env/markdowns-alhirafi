@@ -1,3 +1,6 @@
+# Politique de confidentialité
+Dernière mise à jour : [12/03/2023]
+
 # Main Title of the Document
 
 ## Subtitle or Section Title
