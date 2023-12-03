@@ -24,7 +24,3 @@ Here's a blockquote:
 ###### Smallest Subsection Title
 
 Finally, here's an example of a code block:
-
-```python
-def hello_world():
-    print("Hello, world!")
